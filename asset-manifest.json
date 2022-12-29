@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0508585d.css",
+    "main.js": "/React-Portfolio/static/js/main.e812f922.js",
+    "static/media/andysli.png": "/React-Portfolio/static/media/andysli.98592c536b18c0a064c0.png",
+    "static/media/me.png": "/React-Portfolio/static/media/me.77cd09fcb72a93e040d9.png",
+    "static/media/midtermelections.png": "/React-Portfolio/static/media/midtermelections.33c6b5a4d11b75de1d1a.png",
+    "static/media/me2Copy.png": "/React-Portfolio/static/media/me2Copy.0bc6c64a55639551adb6.png",
+    "static/media/eyebrow2.png": "/React-Portfolio/static/media/eyebrow2.c672e77163e443d760c5.png",
+    "static/media/avatar1.png": "/React-Portfolio/static/media/avatar1.adc402972ed5f02a268a.png",
+    "static/media/avatar2.png": "/React-Portfolio/static/media/avatar2.a3e74fc72704bd55d47d.png",
+    "static/media/choir.png": "/React-Portfolio/static/media/choir.ec7f025e3fcf48122388.png",
+    "static/media/eyebrow1.png": "/React-Portfolio/static/media/eyebrow1.eb4f2dfe24c13f7c9b33.png",
+    "static/media/closed.png": "/React-Portfolio/static/media/closed.5cb74f377630cd3e2c39.png",
+    "static/media/kpop.png": "/React-Portfolio/static/media/kpop.32ffcf37e1e041215b61.png",
+    "static/media/websiteresource.png": "/React-Portfolio/static/media/websiteresource.edf651a08b4ce52ebd71.png",
+    "static/media/AndyLiResume.pdf": "/React-Portfolio/static/media/AndyLiResume.1bb91b04763d56f99a32.pdf",
+    "static/media/flashcard.png": "/React-Portfolio/static/media/flashcard.13b50c33ec8fd613df4c.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.0508585d.css.map": "/React-Portfolio/static/css/main.0508585d.css.map",
+    "main.e812f922.js.map": "/React-Portfolio/static/js/main.e812f922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0508585d.css",
+    "static/js/main.e812f922.js"
+  ]
+}
