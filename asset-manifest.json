@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.e50b7dd9.css",
-    "main.js": "/React-Portfolio/static/js/main.7a0f2960.js",
+    "main.css": "/React-Portfolio/static/css/main.0508585d.css",
+    "main.js": "/React-Portfolio/static/js/main.e812f922.js",
     "static/media/andysli.png": "/React-Portfolio/static/media/andysli.98592c536b18c0a064c0.png",
     "static/media/me.png": "/React-Portfolio/static/media/me.77cd09fcb72a93e040d9.png",
     "static/media/midtermelections.png": "/React-Portfolio/static/media/midtermelections.33c6b5a4d11b75de1d1a.png",
@@ -17,11 +17,11 @@
     "static/media/AndyLiResume.pdf": "/React-Portfolio/static/media/AndyLiResume.1bb91b04763d56f99a32.pdf",
     "static/media/flashcard.png": "/React-Portfolio/static/media/flashcard.13b50c33ec8fd613df4c.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.e50b7dd9.css.map": "/React-Portfolio/static/css/main.e50b7dd9.css.map",
-    "main.7a0f2960.js.map": "/React-Portfolio/static/js/main.7a0f2960.js.map"
+    "main.0508585d.css.map": "/React-Portfolio/static/css/main.0508585d.css.map",
+    "main.e812f922.js.map": "/React-Portfolio/static/js/main.e812f922.js.map"
   },
   "entrypoints": [
-    "static/css/main.e50b7dd9.css",
-    "static/js/main.7a0f2960.js"
+    "static/css/main.0508585d.css",
+    "static/js/main.e812f922.js"
   ]
 }
