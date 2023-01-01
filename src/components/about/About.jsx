@@ -39,7 +39,7 @@ const about = () => {
           </article>
         </div>
 
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae ducimus hic sunt illo, facere voluptatibus, quia necessitatibus voluptatum facilis veniam magni, quis maiores eveniet. Aut magni modi vel delectus veritatis.</p>
+        <p>"Computer science would be the future and a necessary skill." Reading the writing I found while cleaning up my room, I believe my young chicken scratch is unfolding. Now fast-forward to 2023, and I am continuously learning and working on projects more than ever. I’ve been able to help 200+ college students, primarily at the University of Minnesota, raise awareness for human rights and adopt financial literacy.</p>
       
         <a href="#contact" className="btn btn-primary">Let's Talk</a>
       </div>
